@@ -20,8 +20,8 @@ status-website:
   baseUrl: /kevlopzz/Status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime - Status
-  introTitle: "**Upptime** Status Sites."
-  introMessage: Status de uptime de los sitios 
+  #introTitle: "**Upptime** Status Sites."
+  #introMessage: Status de uptime de los sitios 
   navbar:
     - title: Status
       href: /
