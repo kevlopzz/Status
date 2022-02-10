@@ -22,19 +22,19 @@
     "url": "https://www.aneudyadames.dev",
     "icon": "https://favicons.githubusercontent.com/www.aneudyadames.dev",
     "slug": "aneudy-adames",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 402,
-    "timeDay": 215,
-    "timeWeek": 433,
-    "timeMonth": 402,
-    "timeYear": 402,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 396,
+    "timeDay": 258,
+    "timeWeek": 417,
+    "timeMonth": 396,
+    "timeYear": 396,
     "dailyMinutesDown": {
-      "2022-02-10": 0
+      "2022-02-10": 12
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://just-married.us/",
     "icon": "https://favicons.githubusercontent.com/just-married.us",
     "slug": "just-married",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 951,
-    "timeWeek": 286,
-    "timeMonth": 214,
-    "timeYear": 214,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 209,
+    "timeDay": 537,
+    "timeWeek": 266,
+    "timeMonth": 209,
+    "timeYear": 209,
     "dailyMinutesDown": {
-      "2022-02-10": 0
+      "2022-02-10": 12
     }
   },
   {
