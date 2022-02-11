@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 820,
-    "timeDay": 265,
-    "timeWeek": 412,
-    "timeMonth": 820,
-    "timeYear": 820,
+    "time": 790,
+    "timeDay": 267,
+    "timeWeek": 403,
+    "timeMonth": 790,
+    "timeYear": 790,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/www.aneudyadames.dev",
     "slug": "aneudy-adames",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 396,
-    "timeDay": 258,
-    "timeWeek": 417,
-    "timeMonth": 396,
-    "timeYear": 396,
-    "dailyMinutesDown": {
-      "2022-02-10": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 381,
+    "timeDay": 201,
+    "timeWeek": 406,
+    "timeMonth": 381,
+    "timeYear": 381,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Just Married",
@@ -43,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/just-married.us",
     "slug": "just-married",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 209,
-    "timeDay": 537,
-    "timeWeek": 266,
-    "timeMonth": 209,
-    "timeYear": 209,
-    "dailyMinutesDown": {
-      "2022-02-10": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 203,
+    "timeDay": 113,
+    "timeWeek": 263,
+    "timeMonth": 203,
+    "timeYear": 203,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
