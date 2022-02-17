@@ -4,7 +4,7 @@
     "url": "https://www.natetech.dev",
     "icon": "https://favicons.githubusercontent.com/www.natetech.dev",
     "slug": "nate-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 457,
     "timeMonth": 714,
     "timeYear": 714,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-17": 0
+    }
   },
   {
     "name": "Aneudy Adames",
