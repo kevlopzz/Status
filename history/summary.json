@@ -22,9 +22,9 @@
     "url": "https://www.aneudyadames.dev",
     "icon": "https://favicons.githubusercontent.com/www.aneudyadames.dev",
     "slug": "aneudy-adames",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 288,
     "timeMonth": 342,
     "timeYear": 342,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-28": 0
+    }
   },
   {
     "name": "Just Married",
