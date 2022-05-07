@@ -22,7 +22,7 @@
     "url": "https://www.aneudyadames.dev",
     "icon": "https://favicons.githubusercontent.com/www.aneudyadames.dev",
     "slug": "aneudy-adames",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,9 +31,10 @@
     "time": 476,
     "timeDay": 898,
     "timeWeek": 429,
-    "timeMonth": 665,
+    "timeMonth": 676,
     "timeYear": 476,
     "dailyMinutesDown": {
+      "2022-05-07": 0,
       "2022-03-02": 15
     }
   },
