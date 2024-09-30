@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.natetech.dev.ico",
     "slug": "nate-tech",
     "status": "down",
-    "uptime": "21.84%",
+    "uptime": "21.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-29": 54,
+      "2024-09-30": 51,
+      "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
@@ -379,8 +380,7 @@
       "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
-      "2023-10-02": 1440,
-      "2023-10-01": 1440
+      "2023-10-02": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 314,
-    "timeDay": 261,
-    "timeWeek": 461,
-    "timeMonth": 366,
+    "timeDay": 187,
+    "timeWeek": 432,
+    "timeMonth": 364,
     "timeYear": 292,
     "dailyMinutesDown": {}
   },
@@ -407,16 +407,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/just-married.us.ico",
     "slug": "just-married",
     "status": "up",
-    "uptime": "82.22%",
+    "uptime": "82.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 188,
-    "timeDay": 155,
-    "timeWeek": 137,
-    "timeMonth": 130,
-    "timeYear": 179,
+    "time": 189,
+    "timeDay": 664,
+    "timeWeek": 225,
+    "timeMonth": 150,
+    "timeYear": 181,
     "dailyMinutesDown": {
       "2024-03-16": 18
     }
