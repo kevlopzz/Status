@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-10": 1161,
+      "2024-10-10": 1167,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -388,19 +388,19 @@
     "url": "https://www.aneudyadames.dev",
     "icon": "https://icons.duckduckgo.com/ip3/www.aneudyadames.dev.ico",
     "slug": "aneudy-adames",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 315,
-    "timeDay": 385,
-    "timeWeek": 406,
-    "timeMonth": 411,
-    "timeYear": 295,
+    "timeDay": 359,
+    "timeWeek": 395,
+    "timeMonth": 408,
+    "timeYear": 296,
     "dailyMinutesDown": {
-      "2024-10-10": 0
+      "2024-10-10": 6
     }
   },
   {
