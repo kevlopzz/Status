@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-02": 1378,
+      "2025-06-03": 59,
+      "2025-06-02": 1440,
       "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
@@ -379,8 +380,7 @@
       "2024-06-07": 1440,
       "2024-06-06": 1440,
       "2024-06-05": 1440,
-      "2024-06-04": 1440,
-      "2024-06-03": 1440
+      "2024-06-04": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 349,
-    "timeDay": 354,
-    "timeWeek": 295,
-    "timeMonth": 416,
-    "timeYear": 368,
+    "timeDay": 462,
+    "timeWeek": 336,
+    "timeMonth": 419,
+    "timeYear": 369,
     "dailyMinutesDown": {
       "2025-04-28": 114
     }
@@ -410,17 +410,16 @@
     "slug": "just-married",
     "status": "up",
     "uptime": "85.82%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 199,
-    "timeDay": 161,
-    "timeWeek": 138,
+    "timeDay": 149,
+    "timeWeek": 151,
     "timeMonth": 180,
-    "timeYear": 197,
+    "timeYear": 198,
     "dailyMinutesDown": {
-      "2025-06-02": 6,
       "2025-05-07": 28,
       "2024-11-14": 17
     }
