@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.natetech.dev.ico",
     "slug": "nate-tech",
     "status": "down",
-    "uptime": "17.03%",
+    "uptime": "17.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-30": 63,
+      "2025-06-30": 1338,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
@@ -388,7 +388,7 @@
     "url": "https://www.aneudyadames.dev",
     "icon": "https://icons.duckduckgo.com/ip3/www.aneudyadames.dev.ico",
     "slug": "aneudy-adames",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -400,6 +400,7 @@
     "timeMonth": 342,
     "timeYear": 376,
     "dailyMinutesDown": {
+      "2025-06-30": 0,
       "2025-04-28": 114
     }
   },
@@ -409,7 +410,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/just-married.us.ico",
     "slug": "just-married",
     "status": "up",
-    "uptime": "86.13%",
+    "uptime": "86.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
