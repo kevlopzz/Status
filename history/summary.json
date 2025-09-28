@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-28": 59,
+      "2025-09-28": 689,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
@@ -388,7 +388,7 @@
     "url": "https://www.aneudyadames.dev",
     "icon": "https://icons.duckduckgo.com/ip3/www.aneudyadames.dev.ico",
     "slug": "aneudy-adames",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -400,6 +400,7 @@
     "timeMonth": 493,
     "timeYear": 397,
     "dailyMinutesDown": {
+      "2025-09-28": 0,
       "2025-08-30": 33,
       "2025-08-06": 23,
       "2025-07-30": 18,
