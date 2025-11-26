@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-25": 1080,
+      "2025-11-26": 58,
+      "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
@@ -379,8 +380,7 @@
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
-      "2024-11-27": 1440,
-      "2024-11-26": 1440
+      "2024-11-27": 1440
     }
   },
   {
@@ -390,17 +390,17 @@
     "slug": "aneudy-adames",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "97.30%",
-    "uptimeWeek": "98.72%",
-    "uptimeMonth": "99.19%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.20%",
     "uptimeYear": "99.86%",
-    "time": 417,
-    "timeDay": 432,
-    "timeWeek": 460,
-    "timeMonth": 503,
+    "time": 418,
+    "timeDay": 354,
+    "timeWeek": 469,
+    "timeMonth": 506,
     "timeYear": 436,
     "dailyMinutesDown": {
-      "2025-11-25": 39,
+      "2025-11-25": 34,
       "2025-11-24": 21,
       "2025-11-21": 36,
       "2025-11-20": 16,
@@ -437,9 +437,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 226,
-    "timeDay": 224,
-    "timeWeek": 215,
-    "timeMonth": 315,
+    "timeDay": 140,
+    "timeWeek": 220,
+    "timeMonth": 313,
     "timeYear": 229,
     "dailyMinutesDown": {
       "2025-10-20": 73,
