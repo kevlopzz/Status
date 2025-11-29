@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-28": 1050,
+      "2025-11-29": 56,
+      "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
@@ -379,8 +380,7 @@
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
-      "2024-11-30": 1440,
-      "2024-11-29": 1440
+      "2024-11-30": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "99.27%",
     "uptimeYear": "99.85%",
     "time": 422,
-    "timeDay": 381,
-    "timeWeek": 444,
-    "timeMonth": 500,
+    "timeDay": 364,
+    "timeWeek": 443,
+    "timeMonth": 492,
     "timeYear": 436,
     "dailyMinutesDown": {
       "2025-11-28": 16,
@@ -433,16 +433,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/just-married.us.ico",
     "slug": "just-married",
     "status": "up",
-    "uptime": "87.63%",
+    "uptime": "87.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 228,
-    "timeDay": 346,
-    "timeWeek": 277,
-    "timeMonth": 326,
-    "timeYear": 231,
+    "timeDay": 69,
+    "timeWeek": 275,
+    "timeMonth": 316,
+    "timeYear": 230,
     "dailyMinutesDown": {
       "2025-10-20": 73,
       "2025-05-07": 28
