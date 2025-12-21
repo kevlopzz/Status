@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.natetech.dev.ico",
     "slug": "nate-tech",
     "status": "down",
-    "uptime": "14.95%",
+    "uptime": "14.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-20": 959,
+      "2025-12-21": 66,
+      "2025-12-20": 1440,
       "2025-12-19": 1440,
       "2025-12-18": 1440,
       "2025-12-17": 1440,
@@ -379,8 +380,7 @@
       "2024-12-25": 1440,
       "2024-12-24": 1440,
       "2024-12-23": 1440,
-      "2024-12-22": 1440,
-      "2024-12-21": 1440
+      "2024-12-22": 1440
     }
   },
   {
@@ -390,17 +390,16 @@
     "slug": "aneudy-adames",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "97.93%",
-    "uptimeMonth": "98.65%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.98%",
+    "uptimeMonth": "98.66%",
     "uptimeYear": "99.77%",
     "time": 422,
-    "timeDay": 294,
-    "timeWeek": 433,
+    "timeDay": 266,
+    "timeWeek": 420,
     "timeMonth": 428,
     "timeYear": 436,
     "dailyMinutesDown": {
-      "2025-12-20": 5,
       "2025-12-19": 42,
       "2025-12-18": 72,
       "2025-12-16": 54,
@@ -452,8 +451,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 227,
-    "timeDay": 224,
-    "timeWeek": 235,
+    "timeDay": 217,
+    "timeWeek": 216,
     "timeMonth": 212,
     "timeYear": 231,
     "dailyMinutesDown": {
