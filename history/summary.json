@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-24": 61,
+      "2026-01-24": 248,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
@@ -388,9 +388,9 @@
     "url": "https://www.aneudyadames.dev",
     "icon": "https://icons.duckduckgo.com/ip3/www.aneudyadames.dev.ico",
     "slug": "aneudy-adames",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.72%",
@@ -400,6 +400,7 @@
     "timeMonth": 519,
     "timeYear": 451,
     "dailyMinutesDown": {
+      "2026-01-24": 0,
       "2026-01-13": 16,
       "2026-01-11": 62,
       "2026-01-09": 26,
