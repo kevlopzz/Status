@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-06": 104,
+      "2026-08-07": 129,
+      "2026-08-06": 1440,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
       "2026-08-03": 1440,
@@ -379,8 +380,7 @@
       "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
-      "2025-08-08": 1440,
-      "2025-08-07": 1440
+      "2025-08-08": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.27%",
-    "time": 521,
-    "timeDay": 1020,
-    "timeWeek": 785,
-    "timeMonth": 793,
-    "timeYear": 557,
+    "time": 522,
+    "timeDay": 1072,
+    "timeWeek": 803,
+    "timeMonth": 808,
+    "timeYear": 558,
     "dailyMinutesDown": {
       "2025-10-20": 40,
       "2025-10-23": 33,
@@ -485,15 +485,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/just-married.us.ico",
     "slug": "just-married",
     "status": "up",
-    "uptime": "89.50%",
+    "uptime": "89.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 307,
-    "timeDay": 257,
-    "timeWeek": 426,
-    "timeMonth": 515,
+    "time": 308,
+    "timeDay": 224,
+    "timeWeek": 381,
+    "timeMonth": 499,
     "timeYear": 326,
     "dailyMinutesDown": {
       "2025-10-20": 73,
